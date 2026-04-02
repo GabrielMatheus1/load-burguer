@@ -10,6 +10,10 @@ O projeto exibe:
 - uma animacao continua com movimento suave;
 - a identidade visual da marca posicionada na parte inferior da tela.
 
+## Preview
+<img width="1263" height="834" alt="image" src="https://github.com/user-attachments/assets/3f3eb772-7353-441d-80c6-a03dd30af5cd" />
+
+
 ## Tecnologias utilizadas
 
 - HTML5
